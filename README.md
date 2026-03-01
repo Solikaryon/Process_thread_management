@@ -1,4 +1,4 @@
-# Practice 3: Process Thread Management
+# Process Thread Management
 
 ## Author
 Luis Fernando Monjaraz Briseño
@@ -36,3 +36,4 @@ java process_thread_management
 
 ## License
 Educational project
+
